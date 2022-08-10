@@ -2,7 +2,7 @@
 
 The project is an Instagram clone using a selfie portrait of amassing artists 
 
-They provide a Figma file design (https://www.figma.com/file/h0MKma9TTWzGOMQ9Ia6ROW/Oldagram)
+They provide a Figma file design https://www.figma.com/file/h0MKma9TTWzGOMQ9Ia6ROW/Oldagram)
 
 Task requirements :
 
