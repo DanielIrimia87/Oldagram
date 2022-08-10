@@ -1,4 +1,21 @@
-# co214466a88da63d9224bfdc0
+## Oldagram is a solo project  from The Frontend Developer Career Path from Scrimba 
+
+The project is an Instagram clone using a selfie portrait of amassing artists 
+
+They provide a Figma file design (https://www.figma.com/file/h0MKma9TTWzGOMQ9Ia6ROW/Oldagram)
+
+Task requirements :
+
+- Create the first post
+- Use semantic Html
+- Add hover effect to the icons
+- use CSS classes to make the post more readable
+
+Stretch goals:
+
+- Use JavaScript to render out all tree posts
+- increase the likes when double click the post (or single click event)
+
 
 ## About Scrimba
 
